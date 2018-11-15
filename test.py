@@ -1,3 +1,2 @@
 echo
 java
-go
